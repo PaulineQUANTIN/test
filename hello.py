@@ -1,1 +1,2 @@
+exit()
 print("Hello Monde")
